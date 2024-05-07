@@ -1,6 +1,6 @@
 # POINT TO SITE SAMPLE
 $grp="P2STESTRG"
-$location1="southeastasia" 
+$location1="australiaeaster" 
 $vnetName1="SEAvnet" 
 $subnetName="Subnet1"
 $vmName="SEA_VM"
